@@ -1,0 +1,24 @@
+This set of programs simulates the HI 21-cm visibility signal for the Ooty Wide Field Array (OWFA).
+OWFA is gearing up for intensity mapping at z ~ 3.35. The expected visibility correlation of the
+HI 21-cm signal is a banded diagonal on each baseline in the frequency-frequency space.
+Random realizations of the correlation expanded in its eigen basis can be used to generate the 
+visibility signal. This simulations incorporates the redshift space distortion and light cone effects
+and the breakdown of the ergodicity of the visibility correlation in frequency.
+
+For an introduction to OWFA and related work, see the following papers:
+  (1) Prasad P., Subrahmanya C., 2011a, arXiv:1102.0148
+  (2) Prasad P., Subrahmanya C., 2011b, Experimental Astronomy, 31, 1
+  (3) Ali S. S., Bharadwaj S., 2014, J. Astrophys. Astron., 35, 157
+  (4) Marthi V. R., Chengalur J., 2014, MNRAS, 437, 524
+  (5) Bharadwaj S., Sarkar A. K., Ali S. S., 2015, J. Astrophys. Astron., 36, 385
+  (6) Subrahmanya C. R., Prasad P., Girish B. S., Somashekar R., Manoharan P. K., Mittal A. K., 2017a, J. Astrophys. Astron., 38, 11
+  (7) Subrahmanya C., Manoharan P., Chengalur J. N., 2017b, J. Astrophys. Astron., 38, 10
+  (8) Marthi V. R., 2017, J. Astrophys. Astron., 38, 12
+  (8) Chatterjee S., Bharadwaj S., Marthi V. R., 2017, J. Astrophys.Astron., 38, 15
+  (9) Gehlot B. K., Bagla J., 2017, J. Astrophys. Astron., 38, 13
+ (10) Sarkar A. K., Bharadwaj S., Ali S. S., 2017, J. Astrophys. Astron., 38, 14
+ (11) Marthi V. R., Chatterjee S., Chengalur J. N., Bharadwaj S., 2017, MNRAS, 471, 3112
+
+
+If you use this software or borrow from here, please cite:
+  Sarkar, A.K., Bharadwaj, S. & Marthi, V. R., MNRAS, 2017.
