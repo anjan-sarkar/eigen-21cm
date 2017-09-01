@@ -1,8 +1,5 @@
-This set of programs simulates the HI 21-cm visibility signal for the Ooty Wide Field Array (OWFA).
-OWFA is gearing up for intensity mapping at z ~ 3.35. The expected visibility correlation of the
-HI 21-cm signal is a banded diagonal on each baseline in the frequency-frequency space.
-Random realizations of the correlation expanded in its eigen basis can be used to generate the 
-visibility signal. This simulation incorporates the redshift space distortion and light cone effects
+This set of programs simulates the HI 21-cm visibility signal for the Ooty Wide Field Array (OWFA). OWFA is gearing up for intensity mapping at z ~ 3.35. The expected visibility correlation of the
+HI 21-cm signal is a banded diagonal on each baseline in the frequency-frequency space. Random realizations of the correlation expanded in its eigen basis can be used to generate the visibility signal. This simulation incorporates the redshift space distortion and light cone effects 
 and the breakdown of the ergodicity of the visibility correlation in frequency.
 
 For an introduction to OWFA and related work, see the following papers:
