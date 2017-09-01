@@ -1,3 +1,13 @@
+Programs to simulate the HI 21-cm visibility signal for OWFA
+=============================================================
+                Anjan Kumar Sarkar
+                Centre for Theoretical Studies
+                Indian Institute of Technology, Kharagpur
+                anjan@cts.iitkgp.ernet.in
+                
+               ---------------------------
+
+
 This set of programs simulates the HI 21-cm visibility signal for the Ooty Wide Field Array (OWFA). 
 OWFA is gearing up for intensity mapping at z ~ 3.35. The expected visibility correlation of the
 HI 21-cm signal is a banded diagonal on each baseline in the frequency-frequency space. Random 
